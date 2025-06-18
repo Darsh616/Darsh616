@@ -1,34 +1,100 @@
-<h1 align="center">Hi 👋, I'm Darshan katkam</h1>
-<h3 align="center">"Showcasing Innovative Projects and Coding Excellence"</h3>
+<h1 align="center">Hi 👋, I'm Darshan Katkam</h1>
+<h3 align="center">💻 DevOps Engineer | ☁️ Cloud Enthusiast | 🚀 Automation Ninja</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darsh616&label=Profile%20views&color=0e75b6&style=flat" alt="darsh616" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darsh616" alt="darsh616" /></a> </p>
-
-- 🔭 I’m currently working on [Portfolio](https://darsh616.github.io/Darshan-Portfolio/)
-
-- 🌱 I’m currently learning **DevOps & Asp.net Frameworks**
-
-- 👯 I’m looking to collaborate on [E-commerce](https://darsh616.github.io/E-commerce-Website/)
-
-- 🤝 I’m looking for help with [Travel](https://darsh616.github.io/Travelling/)
-
-- 👨‍💻 All of my projects are available at [https://darsh616.github.io/Darshan-Portfolio/](https://darsh616.github.io/Darshan-Portfolio/)
-
-- 📫 How to reach me **darshankatkam@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Darsh616/Darshan-Portfolio/blob/main/Darshan%20Resume.docx](https://github.com/Darsh616/Darshan-Portfolio/blob/main/Darshan%20Resume.docx)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/darshan katkam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan katkam" height="30" width="40" /></a>
-<a href="https://fb.com/darshan katkam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darshan katkam" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_me_darsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_me_darsh" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darsh616&label=Profile%20views&color=0e75b6&style=flat" alt="darsh616" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/darsh616?label=Followers&style=social" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darsh616&show_icons=true&locale=en&layout=compact" alt="darsh616" /></p>
+### 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darsh616&show_icons=true&locale=en" alt="darsh616" /></p>
+- 🔭 Currently working on **infrastructure automation & cloud-native deployments**
+- 🌱 Learning advanced **DevSecOps**, **IaC**, and **multi-cloud architecture**
+- ⚡ Passionate about **Kubernetes**, **Docker**, **CI/CD**, **Monitoring**, and **SRE**
+- 👯 Looking to collaborate on **Cloud-native, Automation & DevOps Projects**
+- 📫 How to reach me: **darshankatkam@gmail.com**
+- 🌐 Portfolio: [darsh616.github.io/Darshan-Portfolio](https://darsh616.github.io/Darshan-Portfolio)
+- 📄 [Resume](https://github.com/Darsh616/Darshan-Portfolio/blob/main/Darshan%20Resume.docx)
+
+---
+
+### 🚀 My DevOps Toolbox
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+
+---
+
+### 🧠 Programming & Scripting
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=darsh616&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=darsh616&theme=radical&hide_border=false" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darsh616&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darsh616&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/darshan-katkam" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
+  </a>
+  <a href="https://instagram.com/itz_me_darsh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="30" />
+  </a>
+  <a href="https://fb.com/darshan.katkam" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="30" />
+  </a>
+</p>
+
+---
+
+### 🧩 Fun Facts
+
+- 🎯 I automate before I caffeinate ☕  
+- 🌍 Believe in "Write once, run anywhere" infrastructure  
+- 🧰 My weekend hobby: building self-hosted tools using Raspberry Pi + Docker  
+
+---
+
+> “The best way to predict the future is to **automate** it.” – Darshan
